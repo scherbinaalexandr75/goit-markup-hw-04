@@ -91,26 +91,39 @@ img {
   color: #404bbf;
 }
 
-/* .menu-studio:focus {
+.link-itm-studio {
+  position: relative;
   color: #404bbf;
-} */
+  padding-top: 24px;
+  padding-bottom: 24px;
+}
 
-.link-itm {
+.link-itm-portfolio {
   position: relative;
   color: #2e2f42;
   padding-top: 24px;
   padding-bottom: 24px;
 }
 
-/* .link-itm .studio {
-  color: #404bbf;
-} */
+.link-itm-contacts {
+  position: relative;
+  color: #2e2f42;
+  padding-top: 24px;
+  padding-bottom: 24px;
+}
 
-.link-itm:hover {
+.link-itm-studio:hover,
+.link-itm-studio:focus {
   color: #404bbf;
 }
 
-.link-itm:focus {
+.link-itm-portfolio:hover,
+.link-itm-portfolio:focus {
+  color: #404bbf;
+}
+
+.link-itm-contacts:hover,
+ .link-itm-contacts:focus{
   color: #404bbf;
 }
 
