@@ -315,7 +315,7 @@ img {
 
 .icon-container {
   display: flex;
-  margin-right: 120px;
+  /* margin-right: 120px; */
   align-items: center;
   justify-content: center;
   height: 112px;
