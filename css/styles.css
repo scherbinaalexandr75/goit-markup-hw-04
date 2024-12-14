@@ -97,7 +97,8 @@ img {
 
 .link-itm {
   position: relative;
-  color: #2e2f42;
+  /* color: #2e2f42; */
+  color: #404bbf;
   padding-top: 24px;
   padding-bottom: 24px;
 }
