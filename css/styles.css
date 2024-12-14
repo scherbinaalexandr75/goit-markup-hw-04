@@ -98,6 +98,21 @@ img {
   padding-bottom: 24px;
 }
 
+/* .link-itm-studio::before{
+
+} */
+
+.link-itm-studio::after {
+  content: "";
+  width: 100%;
+  position: absolute;
+  left: 0;
+  bottom: -1px;
+  height: 4px;
+  background-color: #404bbf;
+  border-radius: 2px;
+}
+
 .link-itm-portfolio {
   position: relative;
   color: #2e2f42;
@@ -123,7 +138,7 @@ img {
 }
 
 .link-itm-contacts:hover,
- .link-itm-contacts:focus{
+.link-itm-contacts:focus {
   color: #404bbf;
 }
 
