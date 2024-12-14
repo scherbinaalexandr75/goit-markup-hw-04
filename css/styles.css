@@ -275,12 +275,12 @@ img {
   margin: -1px;
   border: 0;
   padding: 0;
-
   white-space: nowrap;
   clip-path: inset(100%);
   clip: rect(0 0 0 0);
   overflow: hidden;
 }
+
 .section-header-two {
   font-size: 36px;
   line-height: 1.11;
@@ -311,6 +311,17 @@ img {
 .section-text-two {
   line-height: 1.5;
   letter-spacing: 0.02em;
+}
+
+.icon-container {
+  margin-right: 120px;
+  align-items: center;
+  justify-content: center;
+  height: 112px;
+  background-color: #f4f4fd;
+  border-radius: 4px;
+  border: 1px solid #8e8f99;
+  margin-bottom: 8px;
 }
 
 /* Section 3 */
