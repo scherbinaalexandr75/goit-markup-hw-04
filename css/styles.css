@@ -97,10 +97,13 @@ img {
 
 .link-itm {
   position: relative;
-  /* color: #2e2f42; */
-  color: #404bbf;
+  color: #2e2f42;
   padding-top: 24px;
   padding-bottom: 24px;
+}
+
+.link-itm .studio {
+  color: #404bbf;
 }
 
 .link-itm:hover {
