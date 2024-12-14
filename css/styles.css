@@ -238,7 +238,7 @@ img {
 }
 
 .instagram-media:hover,
-.instagram-media::focus {
+.instagram-media:focus {
   background-color: #31d0aa;
 }
 
