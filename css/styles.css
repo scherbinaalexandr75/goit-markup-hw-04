@@ -86,13 +86,14 @@ img {
   color: #2e2f42;
 }
 
-.menu-studio:hover {
-  color: #404bbf;
-}
-
+.menu-studio:hover,
 .menu-studio:focus {
   color: #404bbf;
 }
+
+/* .menu-studio:focus {
+  color: #404bbf;
+} */
 
 .link-itm {
   position: relative;
