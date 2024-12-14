@@ -209,6 +209,14 @@ img {
   margin-bottom: 0px;
 }
 
+.social-media {
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #ffffff;
+  margin-bottom: 16px;
+}
+
 /* Section 1 */
 
 .section-one {
