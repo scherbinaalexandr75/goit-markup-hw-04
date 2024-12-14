@@ -395,7 +395,26 @@ img {
   gap: 24px;
 }
 
-.social-list-first-card {
+.social-list-all-cards {
+  width: 40px;
+  height: 40px;
+
+}
+
+.cards-link{
+  width: 100%;
+  height: 100%;
+  background-color: #4d5ae5;
+  border-radius: 50%;
+   display: flex;
+   align-items: center;
+   justify-content: center; 
+
+}
+
+.cards-link:hover,
+.cards-link:focus{
+  background-color: #404bbf; 
 }
 
 .card-header-three {
