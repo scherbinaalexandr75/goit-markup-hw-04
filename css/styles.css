@@ -358,6 +358,8 @@ img {
 
 .first-item-list:hover,
 .overlay-text {
+  box-shadow: 0px 1px 6px rgba(46, 47, 66, 0.08),
+    0px 1px 1px rgba(46, 47, 66, 0.16), 0px 2px 1px rgba(46, 47, 66, 0.08);
   transform: translateY(0%);
 }
 
@@ -372,7 +374,8 @@ img {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #f4f4fd;
-  padding: 40px 32px;
+  padding-left: 0;
+  padding-right: 0;
   background-color: #4d5ae5;
   height: 100%;
   width: 100%;
