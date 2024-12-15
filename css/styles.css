@@ -466,6 +466,11 @@ img {
   transform: translateY(0%);
 }
 
+.fcard {
+  position: relative;
+  overflow: hidden;
+}
+
 .card-header {
   font-weight: 500;
   font-size: 20px;
