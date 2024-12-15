@@ -317,6 +317,9 @@ img {
 
 .overlay-text {
   position: absolute;
+  top: 0;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
 }
 
 .card-header-three {
