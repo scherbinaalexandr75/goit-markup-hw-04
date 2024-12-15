@@ -462,6 +462,7 @@ img {
 }
 
 .overlay-text {
+  box-sizing: border-box;
   position: absolute;
   top: 0;
   font-size: 16px;
@@ -480,6 +481,11 @@ img {
 
 .first-item-list:hover .overlay-text {
   transform: translateY(0%);
+}
+
+.overlay {
+  position: relative;
+  overflow: hidden;
 }
 
 .overlay {
